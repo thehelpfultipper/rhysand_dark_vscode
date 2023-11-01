@@ -1,18 +1,34 @@
 {
-  "name": "rhysand-dark",
-  "displayName": "rhysand-dark",
-  "description": "",
+  "name": "rhysand-dark-theme",
+  "displayName": "Rhysand Dark",
+  "description": "A captivating Rhysand-inspired dark VS Code theme.",
   "version": "0.0.1",
+  "keywords": [
+    "theme",
+    "dark theme",
+    "alluring dark theme",
+    "captivating theme",
+    "thehelpfultipper",
+    "tht",
+    "tht dark",
+    "thehelpfultipper dark",
+    "dark acotar theme"
+  ],
   "engines": {
     "vscode": "^1.83.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "/assets/Rhysand_Theme_Color_Logo.png",
+  "galleryBanner": {
+    "color": "#242424",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
-        "label": "Rhysand Dark",
+        "label": "Rhysand",
         "uiTheme": "vs-dark",
         "path": "./themes/Rhysand Dark-color-theme.json"
       }
