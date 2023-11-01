@@ -1,0 +1,21 @@
+{
+  "name": "rhysand-dark",
+  "displayName": "rhysand-dark",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rhysand Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rhysand Dark-color-theme.json"
+      }
+    ]
+  }
+}
