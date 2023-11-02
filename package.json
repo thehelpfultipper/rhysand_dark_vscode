@@ -1,8 +1,9 @@
 {
-  "name": "rhysand-dark-theme",
+  "name": "rhysand-dark",
   "displayName": "Rhysand Dark",
   "description": "A captivating Rhysand-inspired dark VS Code theme.",
   "version": "0.0.1",
+  "publisher": "TheHelpfulTipper",
   "repository": {
     "type": "git",
     "url": "https://github.com/thehelpfultipper/rhysand_dark_vscode.git"
