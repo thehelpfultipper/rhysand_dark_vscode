@@ -25,3 +25,5 @@ Your code will stand out with clarity, and you'll experience an immersive and el
 This theme is your portal to the Night Court's mystique. Dive into the enchantment and experience the Night Court in every line of code. 
 
 Get started with the Rhysand-inspired VS Code theme today and code like a High Lord 😉
+<br><br>
+**Link:** [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=TheHelpfulTipper.rhysand-dark)
